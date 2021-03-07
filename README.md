@@ -1,1 +1,1 @@
-# practicesets
+# basic python codes
